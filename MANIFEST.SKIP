@@ -1,0 +1,10 @@
+.cvsignore
+\.git
+_build
+blib
+MANIFEST.bak
+Acme-Rautavistic-Sort-\d+\.\d+\.tar.gz
+^Build$
+^Makefile.PL$
+^Build$
+
